@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/spa_project/static/js/main.69cf345a.chunk.js",
+    "main.js.map": "/spa_project/static/js/main.69cf345a.chunk.js.map",
+    "runtime~main.js": "/spa_project/static/js/runtime~main.6b979faf.js",
+    "runtime~main.js.map": "/spa_project/static/js/runtime~main.6b979faf.js.map",
+    "static/css/2.7c33995f.chunk.css": "/spa_project/static/css/2.7c33995f.chunk.css",
+    "static/js/2.ab8fe731.chunk.js": "/spa_project/static/js/2.ab8fe731.chunk.js",
+    "static/js/2.ab8fe731.chunk.js.map": "/spa_project/static/js/2.ab8fe731.chunk.js.map",
+    "index.html": "/spa_project/index.html",
+    "precache-manifest.43ed925c122a109ddf0ee2f5bef53f8b.js": "/spa_project/precache-manifest.43ed925c122a109ddf0ee2f5bef53f8b.js",
+    "service-worker.js": "/spa_project/service-worker.js",
+    "static/css/2.7c33995f.chunk.css.map": "/spa_project/static/css/2.7c33995f.chunk.css.map",
+    "static/media/kiosk_bg.png": "/spa_project/static/media/kiosk_bg.1a6fdb78.png",
+    "static/media/login.png": "/spa_project/static/media/login.fc0b7b37.png",
+    "static/media/logo.png": "/spa_project/static/media/logo.caf36d34.png",
+    "static/media/register.png": "/spa_project/static/media/register.e228c75f.png",
+    "static/media/index.css": "/spa_project/static/media/roboto-latin-900italic.bc833e72.woff"
+  }
+}
