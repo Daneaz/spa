@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/spa_project/static/js/main.aafdb2b4.chunk.js",
-    "main.js.map": "/spa_project/static/js/main.aafdb2b4.chunk.js.map",
-    "runtime~main.js": "/spa_project/static/js/runtime~main.6b979faf.js",
-    "runtime~main.js.map": "/spa_project/static/js/runtime~main.6b979faf.js.map",
-    "static/css/2.7c33995f.chunk.css": "/spa_project/static/css/2.7c33995f.chunk.css",
-    "static/js/2.6d41507b.chunk.js": "/spa_project/static/js/2.6d41507b.chunk.js",
-    "static/js/2.6d41507b.chunk.js.map": "/spa_project/static/js/2.6d41507b.chunk.js.map",
-    "index.html": "/spa_project/index.html",
-    "precache-manifest.6a2bf9e4b1f53be20b1c11759ba4ae04.js": "/spa_project/precache-manifest.6a2bf9e4b1f53be20b1c11759ba4ae04.js",
-    "service-worker.js": "/spa_project/service-worker.js",
-    "static/css/2.7c33995f.chunk.css.map": "/spa_project/static/css/2.7c33995f.chunk.css.map",
-    "static/media/kiosk_bg.png": "/spa_project/static/media/kiosk_bg.1a6fdb78.png",
-    "static/media/login.png": "/spa_project/static/media/login.fc0b7b37.png",
-    "static/media/logo.png": "/spa_project/static/media/logo.caf36d34.png",
-    "static/media/register.png": "/spa_project/static/media/register.e228c75f.png",
-    "static/media/index.css": "/spa_project/static/media/roboto-latin-900italic.bc833e72.woff"
+    "main.js": "/spa/static/js/main.28fd0033.chunk.js",
+    "main.js.map": "/spa/static/js/main.28fd0033.chunk.js.map",
+    "runtime~main.js": "/spa/static/js/runtime~main.f20bd972.js",
+    "runtime~main.js.map": "/spa/static/js/runtime~main.f20bd972.js.map",
+    "static/css/2.2b7e6c4f.chunk.css": "/spa/static/css/2.2b7e6c4f.chunk.css",
+    "static/js/2.6d41507b.chunk.js": "/spa/static/js/2.6d41507b.chunk.js",
+    "static/js/2.6d41507b.chunk.js.map": "/spa/static/js/2.6d41507b.chunk.js.map",
+    "index.html": "/spa/index.html",
+    "precache-manifest.525acadc50d0a56db375ae9fabe752cf.js": "/spa/precache-manifest.525acadc50d0a56db375ae9fabe752cf.js",
+    "service-worker.js": "/spa/service-worker.js",
+    "static/css/2.2b7e6c4f.chunk.css.map": "/spa/static/css/2.2b7e6c4f.chunk.css.map",
+    "static/media/kiosk_bg.png": "/spa/static/media/kiosk_bg.1a6fdb78.png",
+    "static/media/login.png": "/spa/static/media/login.fc0b7b37.png",
+    "static/media/logo.png": "/spa/static/media/logo.caf36d34.png",
+    "static/media/register.png": "/spa/static/media/register.e228c75f.png",
+    "static/media/index.css": "/spa/static/media/roboto-latin-900italic.bc833e72.woff"
   }
 }
