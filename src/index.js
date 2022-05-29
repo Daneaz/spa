@@ -70,7 +70,7 @@ function Routers() {
 
     return (
         <ThemeProvider theme={theme}>
-            <Router basename={"/spa_project"}>
+            <Router basename={"/spa"}>
                 <Switch>
                     <Route exact path="/start" component={Start} />
                     <Route exact path="/faciallogin" component={FacialLogin} />
@@ -83,7 +83,7 @@ function Routers() {
 
 
                     <Route path="/login" component={Login} />
-                    <Route exact path="/" component={Start} />
+                    <Route exact path="/" component={Login} />
                     <PrivateRoute exact path="/dashboard" component={Dashboard} />
 
                     <PrivateRoute exact path="/appointment" component={Appointment} />
