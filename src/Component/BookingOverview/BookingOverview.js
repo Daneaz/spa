@@ -109,7 +109,7 @@ class SelectService extends React.Component {
                                         input={<Input id="age-native-simple" />}
                                         disabled={this.props.disable}
                                     >
-                                        {this.props.staffList.map(staff => (
+                                        {this.props.staffList && this.props.staffList.map(staff => (
                                             <MenuItem value={staff._id}>
                                                 {staff.displayName}
                                             </MenuItem>
