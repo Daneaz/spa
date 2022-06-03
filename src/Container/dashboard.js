@@ -2,7 +2,7 @@ import React from 'react';
 import {withStyles} from '@material-ui/styles';
 
 import {
-    BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, LabelList, ResponsiveContainer, LineChart, Line
+    BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, LineChart, Line
 } from 'recharts';
 
 import {
@@ -18,35 +18,6 @@ const styles = theme => ({
         marginRight: theme.spacing(1),
     },
 });
-
-function monthMapping(monthInt) {
-    switch (monthInt) {
-        case 1:
-            return "Jan"
-        case 2:
-            return "Feb"
-        case 3:
-            return "Mar"
-        case 4:
-            return "Apr"
-        case 5:
-            return "May"
-        case 6:
-            return "Jun"
-        case 7:
-            return "Jul"
-        case 8:
-            return "Aug"
-        case 9:
-            return "Sep"
-        case 10:
-            return "Oct"
-        case 11:
-            return "Nov"
-        case 12:
-            return "Dec"
-    }
-}
 
 class Dashboard extends React.Component {
 
@@ -72,7 +43,6 @@ class Dashboard extends React.Component {
     }
 
     render() {
-        const {classes} = this.props;
         return (
             <AppLayout title="Dashboard" {...this.props} >
                 <Paper style={{marginTop: 20}}>
