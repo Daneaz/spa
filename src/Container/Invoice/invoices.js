@@ -64,7 +64,7 @@ const columns = [
         name: "createdAt",
         label: "Date",
         options: {
-            filter: false,
+            filter: true,
             sort: true,
         }
     }
@@ -146,7 +146,6 @@ class Invoice extends React.Component {
     }
 
     render() {
-        const { classes } = this.props;
         return (
             <AppLayout title="Invoice" {...this.props} >
                 <Grid container justify="flex-end" spacing={32} >

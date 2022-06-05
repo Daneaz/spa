@@ -81,7 +81,7 @@ class NewClient extends React.Component {
                                 if (respObj && respObj.ok) {
 
                                     window.history.back();
-                                } else { 
+                                } else {
                                     Swal.fire({
                                         type: 'error',
                                         title: "Opps... Something Wrong...",
@@ -110,7 +110,7 @@ class NewClient extends React.Component {
                                 <Field
                                     component={TextField} variant="outlined" margin="normal" fullWidth
                                     name="confirmPassoword" label="Confirm Password" type="password"
-                                /> */}
+                                />
                                 <Field
                                     component={TextField} variant="outlined" margin="normal" fullWidth
                                     name="displayName" label="Display Name"
